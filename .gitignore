@@ -1,0 +1,10 @@
+/target
+Cargo.lock
+
+/build
+/dist
+/*.egg-info
+
+.vscode/
+
+.ipynb_checkpoints/
